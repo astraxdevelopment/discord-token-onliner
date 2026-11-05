@@ -1,4 +1,5 @@
-R# Discord Multi-Account RPC & Status Controller
+# 
+Discord Multi-Account RPC & Status Controller
 
 A web dashboard for managing custom Discord Rich Presence (RPC) profiles, statuses, device identifiers, and proxies across multiple accounts at once.
 
