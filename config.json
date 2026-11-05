@@ -1,0 +1,17 @@
+{
+  "accounts": [
+    {
+      "token": "YOUR_USER_TOKEN_1",
+      "label": "Account Profile 1",
+      "proxy": "",
+      "status": "online",
+      "device": "desktop",
+      "rpc": {
+        "name": "Visual Studio Code",
+        "type": "playing",
+        "details": "Editing main.py",
+        "state": "Workspace"
+      }
+    }
+  ]
+}
